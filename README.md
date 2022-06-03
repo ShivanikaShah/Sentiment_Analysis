@@ -24,3 +24,8 @@ LSTM model with Word2Vec word embeddings.
 The LSTM model with 78.95% accuracy and
 86.96% test AUC score is our final selection as the
 best performing model.
+
+
+## LSTM Model Results
+
+![image](https://user-images.githubusercontent.com/17857561/171776827-5fe9356f-dff8-44c0-91f3-7d53ce589dd7.png)
